@@ -1,0 +1,6 @@
+framework module MMPopupView_Enhanced {
+  umbrella header "MMPopupView-Enhanced-umbrella.h"
+
+  export *
+  module * { export * }
+}

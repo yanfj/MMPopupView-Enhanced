@@ -1,0 +1,6 @@
+framework module Pods_MMPopupView_Enhanced_Example {
+  umbrella header "Pods-MMPopupView-Enhanced_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

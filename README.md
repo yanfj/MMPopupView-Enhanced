@@ -5,11 +5,12 @@
 [![License](https://img.shields.io/cocoapods/l/MMPopupView-Enhanced.svg?style=flat)](http://cocoapods.org/pods/MMPopupView-Enhanced)
 [![Platform](https://img.shields.io/cocoapods/p/MMPopupView-Enhanced.svg?style=flat)](http://cocoapods.org/pods/MMPopupView-Enhanced)
 
-## Example
+## Statement
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+首先 感谢 MMPopupView 作者的无私奉献和允许, <https://github.com/adad184/MMPopupView>
 
-## Requirements
+我在此基础上优化了代码，增强了稳定性，适配了iPone X 以及iOS 11
+
 
 ## Installation
 
