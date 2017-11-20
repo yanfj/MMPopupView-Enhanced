@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
   Copyright © 2015 LJC & Modify by Yan on 2017/11/20
                        DESC
 
-  s.homepage         = 'https://github.com/yanff/MMPopupView-Enhanced'
+  s.homepage         = 'https://github.com/yanfj/MMPopupView-Enhanced'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'yanff' => 'yanff.us@gmail.com' }
-  s.source           = { :git => 'https://github.com/yanff/MMPopupView-Enhanced.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yanfj/MMPopupView-Enhanced.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
