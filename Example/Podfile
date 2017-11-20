@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MMPopupView-Enhanced_Example' do
+  pod 'MMPopupView-Enhanced', :path => '../'
+
+  target 'MMPopupView-Enhanced_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
