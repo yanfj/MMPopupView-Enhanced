@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMPopupView-Enhanced'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'MMPopupView的优化版本,感谢原作者的分享'
 
 # This description is used to generate tags and improve search results.
