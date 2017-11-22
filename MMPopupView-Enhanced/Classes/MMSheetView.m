@@ -152,6 +152,9 @@
             make.bottom.equalTo(extraView.mas_bottom);
         }];
         
+        //默认点击空白消失
+        [[MMPopupWindow sharedWindow] setTouchWildToHide:YES];
+        
     }
     
     return self;

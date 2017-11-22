@@ -230,6 +230,9 @@
             make.bottom.equalTo(self.buttonView.mas_bottom);
             
         }];
+        
+        //默认屏蔽点击空白消失
+        [[MMPopupWindow sharedWindow] setTouchWildToHide:NO];
     }
     
     
