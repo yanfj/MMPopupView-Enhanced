@@ -22,7 +22,7 @@ pod 'MMPopupView-Enhanced'
 
 ## Author
 
-yanff, yanff.us@gmail.com
+yanfj, yanff.us@gmail.com
 
 ## License
 
