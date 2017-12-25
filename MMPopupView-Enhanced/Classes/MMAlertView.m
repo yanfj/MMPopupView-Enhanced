@@ -36,7 +36,7 @@
     MMAlertViewConfig *config = [MMAlertViewConfig globalConfig];
     
     NSArray *items =@[
-                      MMItemMake(config.defaultTextCancel, MMItemTypeHighlight, nil),
+                      MMItemMake(config.defaultTextCancel, MMItemTypeNormal, nil),
                       MMItemMake(config.defaultTextConfirm, MMItemTypeHighlight, nil)
                       ];
     return [self initWithTitle:title detail:detail items:items inputPlaceholder:inputPlaceholder inputHandler:inputHandler];
