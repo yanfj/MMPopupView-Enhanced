@@ -1,6 +1,6 @@
 {
   "name": "MMPopupView-Enhanced",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "MMPopupView的优化版本,感谢原作者的分享",
   "description": "Copyright © 2015 LJC & Modify by Yan on 2017/11/20",
   "homepage": "https://github.com/yanfj/MMPopupView-Enhanced",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/yanfj/MMPopupView-Enhanced.git",
-    "tag": "1.0.0"
+    "tag": "1.0.3"
   },
   "platforms": {
     "ios": "8.0"

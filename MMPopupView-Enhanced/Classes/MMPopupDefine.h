@@ -18,6 +18,6 @@
 #define MM_IS_IPHONE        [[UIDevice currentDevice].model isEqualToString:@"iPhone"]
 #define MM_SCREEN_HEIGHT    MAX([UIScreen mainScreen].bounds.size.width , [UIScreen mainScreen].bounds.size.height)
 #define MM_SCREEN_WIDTH     MIN([UIScreen mainScreen].bounds.size.width , [UIScreen mainScreen].bounds.size.height)
-#define MM_IS_IPHONE_X      (MM_IS_IPHONE && ((UI_SCREEN_WIDTH/UI_SCREEN_HEIGHT) < 0.5))
+#define MM_IS_IPHONE_X      (MM_IS_IPHONE && ((MM_SCREEN_WIDTH/MM_SCREEN_HEIGHT) < 0.5))
 
 #endif /* MMPopupDefine_h */

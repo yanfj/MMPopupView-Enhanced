@@ -2,6 +2,6 @@ use_frameworks!
 
 target 'MMPopupView-Enhanced_Example' do
   pod 'Masonry'
-  pod 'MMPopupView-Enhanced', :podspec => '/Users/Yan/Desktop/MMPopupView-Enhanced/MMPopupView-Enhanced.podspec'
+  pod 'MMPopupView-Enhanced', :podspec => '../MMPopupView-Enhanced.podspec'
 
 end

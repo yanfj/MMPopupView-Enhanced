@@ -1,20 +1,24 @@
 PODS:
   - Masonry (1.1.0)
-  - MMPopupView-Enhanced (1.0.0):
+  - MMPopupView-Enhanced (1.0.3):
     - Masonry
 
 DEPENDENCIES:
   - Masonry
-  - MMPopupView-Enhanced (from `/Users/Yan/Desktop/MMPopupView-Enhanced/MMPopupView-Enhanced.podspec`)
+  - MMPopupView-Enhanced (from `../MMPopupView-Enhanced.podspec`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
 
 EXTERNAL SOURCES:
   MMPopupView-Enhanced:
-    :podspec: /Users/Yan/Desktop/MMPopupView-Enhanced/MMPopupView-Enhanced.podspec
+    :podspec: "../MMPopupView-Enhanced.podspec"
 
 SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
-  MMPopupView-Enhanced: 9c6c6c8003d07ec1bd1a845bac8da800c90b7bb1
+  MMPopupView-Enhanced: c7d1020071f77e305c0e393c2a2f7cacd86d5d24
 
-PODFILE CHECKSUM: 7443b726c6c9d553491ffb31b218b0adb257f7d8
+PODFILE CHECKSUM: 07fcb94971ef4e6dfce4f8115dc3d5a22df07db2
 
-COCOAPODS: 1.3.1
+COCOAPODS: 1.5.3
