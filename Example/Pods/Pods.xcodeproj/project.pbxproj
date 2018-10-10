@@ -86,7 +86,7 @@
 		076E9DF9874C7C6C389A79C5AFCA9A0D /* Masonry-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Masonry-umbrella.h"; sourceTree = "<group>"; };
 		0DC31C30AA1B843123575E6EBA38993C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		0E1B8595E81883BD67848F88413E8AAC /* MMPopupView-Enhanced-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MMPopupView-Enhanced-umbrella.h"; sourceTree = "<group>"; };
-		0F55BE2F91A9B1BCC96F5E5C149E89CF /* Pods_MMPopupView_Enhanced_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_MMPopupView_Enhanced_Example.framework; path = "Pods-MMPopupView-Enhanced_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F55BE2F91A9B1BCC96F5E5C149E89CF /* Pods_MMPopupView_Enhanced_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MMPopupView_Enhanced_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FE65096202F869D0A64938477D70CB6 /* Pods-MMPopupView-Enhanced_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MMPopupView-Enhanced_Example-dummy.m"; sourceTree = "<group>"; };
 		150FCAB40B92D64BE72F17474832008F /* MMSheetView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MMSheetView.m; path = "MMPopupView-Enhanced/Classes/MMSheetView.m"; sourceTree = "<group>"; };
 		16EA2F707326650C1D2302EF9A1D6E83 /* MMPopupItem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MMPopupItem.m; path = "MMPopupView-Enhanced/Classes/MMPopupItem.m"; sourceTree = "<group>"; };
@@ -111,19 +111,19 @@
 		6D9E6050B6E552757BFBEAAACB4596BE /* Pods-MMPopupView-Enhanced_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MMPopupView-Enhanced_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		6E0B4A2185CFF37FBECD5D03445F35FE /* View+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "View+MASAdditions.m"; path = "Masonry/View+MASAdditions.m"; sourceTree = "<group>"; };
 		73EC90EE1808F289D6EDB49888709591 /* Masonry-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Masonry-dummy.m"; sourceTree = "<group>"; };
-		74805E1BD8E5E2912C09E2526DD077DA /* MMPopupView_Enhanced.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MMPopupView_Enhanced.framework; path = "MMPopupView-Enhanced.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		74805E1BD8E5E2912C09E2526DD077DA /* MMPopupView_Enhanced.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MMPopupView_Enhanced.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7725AC5D2999E277FBB4025FC9CC9503 /* MASConstraint+Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MASConstraint+Private.h"; path = "Masonry/MASConstraint+Private.h"; sourceTree = "<group>"; };
 		77579732620C5908AD3F483747D64845 /* Masonry.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Masonry.xcconfig; sourceTree = "<group>"; };
 		7B8A5135AFFAB90AD3EE42D84800EDBC /* Pods-MMPopupView-Enhanced_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MMPopupView-Enhanced_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		836114E132D8343D3A19171EF843904F /* Pods-MMPopupView-Enhanced_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-MMPopupView-Enhanced_Example.modulemap"; sourceTree = "<group>"; };
+		836114E132D8343D3A19171EF843904F /* Pods-MMPopupView-Enhanced_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-MMPopupView-Enhanced_Example.modulemap"; sourceTree = "<group>"; };
 		8427C1869C2215370BF05F87C5D729CC /* MMAlertView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MMAlertView.h; path = "MMPopupView-Enhanced/Classes/MMAlertView.h"; sourceTree = "<group>"; };
 		848A22C69638D55424736A7E57530671 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		8EBCBA97E31D8E9A764EBEB0EBC3BCFC /* MMPopupDefine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MMPopupDefine.h; path = "MMPopupView-Enhanced/Classes/MMPopupDefine.h"; sourceTree = "<group>"; };
 		9216E6A41E22954FBF2150D4FB72CF87 /* MMPopupView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MMPopupView.m; path = "MMPopupView-Enhanced/Classes/MMPopupView.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		94B38C9E744A7796FF312EB16EA4532A /* MASLayoutConstraint.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MASLayoutConstraint.h; path = Masonry/MASLayoutConstraint.h; sourceTree = "<group>"; };
 		98193AA06D0B694C070D2A3835D83A37 /* MMPopupWindow.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MMPopupWindow.h; path = "MMPopupView-Enhanced/Classes/MMPopupWindow.h"; sourceTree = "<group>"; };
-		A357BF35A0620F281C408FEAFAAD11C4 /* MMPopupView-Enhanced.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "MMPopupView-Enhanced.modulemap"; sourceTree = "<group>"; };
+		A357BF35A0620F281C408FEAFAAD11C4 /* MMPopupView-Enhanced.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "MMPopupView-Enhanced.modulemap"; sourceTree = "<group>"; };
 		A9FDBDA599722AA74341D56F47EDC18F /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSArray+MASAdditions.m"; path = "Masonry/NSArray+MASAdditions.m"; sourceTree = "<group>"; };
 		ABD0AA734C58176F05EFCDDF1FCBA1F7 /* MASViewConstraint.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MASViewConstraint.m; path = Masonry/MASViewConstraint.m; sourceTree = "<group>"; };
 		B02362C2845589C0F43D7FD524B50CAA /* MMPopupView-Enhanced-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MMPopupView-Enhanced-prefix.pch"; sourceTree = "<group>"; };
@@ -134,9 +134,9 @@
 		CA3D8C1CB76EDBEA68082D115E0E3DEB /* MMSheetView.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MMSheetView.h; path = "MMPopupView-Enhanced/Classes/MMSheetView.h"; sourceTree = "<group>"; };
 		CCA0BC61C0957E055285B192CFB10C05 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "ViewController+MASAdditions.m"; path = "Masonry/ViewController+MASAdditions.m"; sourceTree = "<group>"; };
 		CE9199A132C9460410DEF2BDCF943E3A /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "ViewController+MASAdditions.h"; path = "Masonry/ViewController+MASAdditions.h"; sourceTree = "<group>"; };
-		D44FC876EB8DCD2D1AA4EF6998104BFC /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Masonry.framework; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D44FC876EB8DCD2D1AA4EF6998104BFC /* Masonry.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Masonry.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5E55A745EC69CDFF814548ED663A199 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		DDB5EA930E85376A19D956A885D4B06F /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Masonry.modulemap; sourceTree = "<group>"; };
+		DDB5EA930E85376A19D956A885D4B06F /* Masonry.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Masonry.modulemap; sourceTree = "<group>"; };
 		DDF050D6DDD967474D8DC0B901097197 /* MMPopupCategory.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MMPopupCategory.m; path = "MMPopupView-Enhanced/Classes/MMPopupCategory.m"; sourceTree = "<group>"; };
 		DFE3EDD50E6D1080DDC8BDF468D8EE63 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSLayoutConstraint+MASDebugAdditions.m"; path = "Masonry/NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
 		E16A46767F5CEFADD07CE04ABC271F06 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "View+MASShorthandAdditions.h"; path = "Masonry/View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
@@ -221,7 +221,6 @@
 				CCA0BC61C0957E055285B192CFB10C05 /* ViewController+MASAdditions.m */,
 				9974FE0FC1D863193CEA3F1E3A656B7D /* Support Files */,
 			);
-			name = Masonry;
 			path = Masonry;
 			sourceTree = "<group>";
 		};
@@ -257,7 +256,6 @@
 				150FCAB40B92D64BE72F17474832008F /* MMSheetView.m */,
 				51610DD8DEB10390289F2553835E17B9 /* Support Files */,
 			);
-			name = "MMPopupView-Enhanced";
 			path = "MMPopupView-Enhanced";
 			sourceTree = "<group>";
 		};
@@ -453,7 +451,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0700;
+				LastUpgradeCheck = 1000;
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -612,6 +610,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -619,6 +618,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
@@ -672,6 +672,7 @@
 				CLANG_WARN_BOOL_CONVERSION = YES;
 				CLANG_WARN_COMMA = YES;
 				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
@@ -679,6 +680,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
